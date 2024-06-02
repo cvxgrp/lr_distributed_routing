@@ -41,7 +41,7 @@ Requirements
 
 
 
-## Hello world
+## `hello_world`
 See the [`examples/hello_world.ipynb`](https://github.com/cvxgrp/lr_distributed_routing/blob/main/examples/hello_world.ipynb) notebook or explanation below.
 
 
